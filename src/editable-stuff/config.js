@@ -6,30 +6,26 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  firstName: "Kim",
   middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  lastName: "Morris",
+  message: " Passionate about empowering teams and fostering innovation. ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/kmorr008",
     },
     {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      image: "fa-facebook", // *****ADD LEET CODE ICON*****
+      url: "https://leetcode.com/u/cLYK9CYvnU/",
     },
     {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      image: "fa-instagram", // *****ADD KAGGLE ICON*****
+      url: "https://www.kaggle.com/kimmorris",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
-    },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      url: "www.linkedin.com/in/kimberlycmorris",
     },
   ],
 };
@@ -54,8 +50,8 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "My name is Kim and I love working with people. I have built an extensive and rewarding career as an educator and am looking to bring my talents to a new organization.",
+  resume: "https://docs.google.com/document/d/1e-wnibXMuL8hoxWMqWUuTCvrOrVc2R4cUSUg71VValM/edit?usp=sharing",
 };
 
 // PROJECTS SECTION
